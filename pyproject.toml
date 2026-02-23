@@ -1,0 +1,14 @@
+[project]
+name = "datafun-07-ml"
+version = "0.1.0"
+description = "Predictive ML project setup"
+requires-python = ">=3.9"
+dependencies = [
+  "jupyterlab",
+  "numpy",
+  "pandas",
+  "pyarrow",
+  "matplotlib",
+  "seaborn",
+  "scipy"
+]
